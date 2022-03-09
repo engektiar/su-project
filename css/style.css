@@ -1,0 +1,125 @@
+.store {
+  width: 100%;
+  height: 60px;
+  background: #357fa9;
+  text-align: center;
+}
+.store-text {
+  color: #fff;
+  font-weight: 700;
+}
+.top-header {
+  background: #3c8dbc;
+  height: 60px;
+}
+/*left side*/
+.left-side {
+  width: 100%;
+  height: 600px;
+  background: #212c31;
+}
+.side-ds {
+  background: #212c31;
+  color: #fff;
+  border: 0;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.side-text {
+  background: #212c31;
+  color: #fff;
+  border: 0;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+.user-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+/*left side END*/
+/*empoyee part*/
+.emp-title {
+  height: 70px;
+  border-bottom: 1px solid;
+}
+.empoyee {
+  display: inline-block;
+}
+.mark-point {
+  font-size: 18px;
+  color: red;
+  text-decoration: none;
+  font-weight: 700;
+}
+.Home-manu {
+  display: inline-block;
+  float: right;
+  padding: 20px;
+}
+.dropdown-menu {
+  width: 250px;
+}
+.Home-manu button {
+  text-align: center;
+  border: none;
+  background: #fff;
+}
+.Home-manu button a {
+  color: black;
+}
+/*empoyee part End*/
+/*news bar*/
+.news {
+  height: 50px;
+  background: #09b3b3;
+}
+.new-head {
+  padding: 10px;
+  color: #fff;
+  font-size: 20px;
+  display: inline-block;
+}
+.back-btn {
+  float: right;
+  margin-right: 15px;
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: none;
+}
+.back-btn a {
+  padding: 15px;
+  color: #000;
+}
+/*new bar end*/
+/*from section start*/
+.from-section {
+  margin-top: 20px;
+}
+/*from secton end*/
+.set-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.submit {
+  background: #00ffff;
+  padding: 7px;
+  margin-right: 10px;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+}
+.submit i {
+  padding: 5px;
+}
+.reset-btn {
+  padding: 7px 10px;
+  border: none;
+  border-radius: 5px;
+}
+.reset-btn i {
+  padding: 10px;
+}
